@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_63a69a6a5db6aca60959dfe1dcb1ed952ad7f4f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hemmanshusethh/Desktop/SDKs/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_9cef1742d286fde649c80c727b44bc0e92a710f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_a802f59b0c86fe65e4f69e0113f307a25529e81e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_5fb6fb9c7fc94c1f9c3a47bacf6425882b5ee95c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_4068d57fec862c08d5c2445f3f9348f77e4733c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.8.0_c7fefe77ecdd38fe4653d31b361422e6320e846d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_b3cfe35fec0b53c784e16389a9281899fec46a4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.8.0_d62b7815891f227f042c4bcd8fcd116345ab0a0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_0c4cf289c580d1cc9bc7ee0f80c94af3cee63ded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_23036f8e23ba228de82b729300a507c10ebbf629.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_e65af0a5eea617304cdc0fe83ae22b7c9ac887a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_c96fc04d3e2fa0fd0b7850904e6929b76f281030.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_a27aa4c5fe171ee5ad897e7de31d9ee0f834d0d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_27811d4d90b60f5f74250abb0ccea11d9c8dc1ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_20994c4cc573e8f8f461bdfd95ae06f6772946ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_f99efe9d8b72d1f8ab670958573211ce3e0ca231.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.8.0_dba6884560b7722e8ee815e086b517c4b69c65f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.8.0_5359feb0caec854f17b1d12ce1609c11d7fc1c12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.8.0_5e1d480bbe0507b0732cc48f527bae8fc5224ce4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_bf332d408f4b7341939213a069ee957552abd696.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_27b77ee39a02fc978d29b76b17ea86c713153594.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/hemmanshusethh/Desktop/MyApplication2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_5c8492aed6832ed6ef83158732506dda6a766a4d.jar" />
+    </item>
+
+</items>
